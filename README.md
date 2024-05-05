@@ -1,4 +1,7 @@
-# Getting Started
+# Açıklama
+
+## Veri tabanı nesnelerinin Kotlin ile yazıldığı, CRUD işlemlerinin yapıldığı Spring Boot projesidir.
+### Kotlin kullanarak Lombok ve Mapper kütüphanelerini olmadan projenin tamamlanması amaçlanmıştır.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
